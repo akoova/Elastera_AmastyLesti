@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Elastera_AmastyLesti extension
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the MIT License
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/mit-license.php
+ *
+ * @category  Elastera
+ * @package   Elastera_AmastyLesti
+ * @author    Simon, Mark <mark@elastera.com>
+ * @copyright Copyright (c) 2015
+ * @license   http://opensource.org/licenses/mit-license.php MIT License
+ */
+-->
+<config>
+    <modules>
+        <Elastera_AmastyLesti>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Elastera_AmastyLesti>
+    </modules>
+</config>
+

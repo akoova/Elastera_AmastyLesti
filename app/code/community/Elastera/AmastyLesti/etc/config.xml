@@ -1,0 +1,41 @@
+<!--
+/**
+ * Elastera_AmastyLesti
+ *
+ * @category  Elastera
+ * @package   Elastera_AmastyLesti
+ * @author    Mark Simon <mark@elastera.com>
+ * @copyright Copyright (c) 2015
+ * @license   http://opensource.org/licenses/mit-license.php MIT License
+ */
+-->
+<config>
+
+    <modules>
+        <Elastera_AmastyLesti>
+            <version>1.0.0</version>
+        </Elastera_AmastyLesti>
+    </modules>
+
+    <global>
+
+        <models>
+            <amastylesti>
+                <class>Elastera_AmastyLesti_Model</class>
+            </amastylesti>
+        </models>
+
+        <events>
+            <fpc_helper_collect_params>
+                <observers>
+                    <elastera_amastylesti_collectParameters>
+                        <class>amastylesti/observer</class>
+                        <method>collectParameters</method>
+                    </elastera_amastylesti_collectParameters>
+                </observers>
+            </fpc_helper_collect_params>
+        </events>
+
+    </global>
+
+</config>
