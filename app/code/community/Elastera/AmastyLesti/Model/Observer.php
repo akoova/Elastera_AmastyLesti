@@ -35,6 +35,7 @@ class Elastera_AmastyLesti_Model_Observer
         foreach ($additionalParameters as $key => $value) {
             $parameters['amasty_'.$key] = $value;
         }
+        $parametersObject->setValue($parameters);
     }
 
 }
