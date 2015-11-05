@@ -42,8 +42,8 @@ If ajax is active in Amasty Shopby, we need to put the get parameter `is_ajax` t
 
 # Install
 To install the extension with [modman](https://github.com/colinmollenhour/modman) get the extension using  
-`git clone git@github.org:elastera/magento-amastilesti.git`  
-Then execute `modman link ../vendor/elastera/magento-amastilesti`
+`git clone git@github.org:elastera/Elastera_AmastyLesti.git`  
+Then execute `modman link ../vendor/elastera/Elastera_AmastyLesti`
 (Change the path to the location of the git clone result)
 
 In System -> Advanced -> System -> Lesti FPC -> Uri Params add the value `is_ajax`  
