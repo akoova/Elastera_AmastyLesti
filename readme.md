@@ -1,5 +1,5 @@
 ![alt text](https://akoova.com/wp-content/uploads/2019/05/logo-retina-reduced.png "Akoova")  
-[akoova.com](https://akoova.com) Email: [info@akoova.com](info@akoova.com) Twitter: [@elastera](https://twitter.com/akoova)  
+[akoova.com](https://akoova.com) Email: [info@akoova.com](info@akoova.com) Twitter: [@akoova](https://twitter.com/akoova)  
 
 # What is this extension?
 Elastera_AmastyLesti is built to solve one specific problem that occurs, 
